@@ -2,5 +2,5 @@ streamlit~=1.48.1
 openai
 langchain
 langchain-openai~=0.3.31
-langchain_community.embeddings
+langchain_community
 faiss-cpu
